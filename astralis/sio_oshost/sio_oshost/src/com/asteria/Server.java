@@ -18,7 +18,7 @@ public final class Server {
     /**
      * The name of this server.
      */
-    public static final String NAME = "Astralis";
+    public static final String NAME = "Astral";
 
     /**
      * The flag that determines if debugging messages should be printed or not.
@@ -47,7 +47,7 @@ public final class Server {
     public static void main(String[] args) {
         try {
             Preconditions.checkState(args.length == 0, "No runtime arguments needed!");
-            logger.info("Launching Smite! Please wait...");
+            logger.info("Launching Astral! Please wait...");
             Bootstrap bootstrap = new Bootstrap(NetworkConstants.PORT);
             bootstrap.bind();
             logger.info("The Bootstrap has been bound, " + NAME + " is now online!");

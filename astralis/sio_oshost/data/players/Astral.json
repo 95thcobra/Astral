@@ -2,8 +2,8 @@
   "username": "Astral",
   "password": "lol",
   "position": {
-    "x": 3223,
-    "y": 3219,
+    "x": 3222,
+    "y": 3216,
     "z": 0
   },
   "rights": "DEVELOPER",
@@ -370,7 +370,7 @@
   "spellbook": "NORMAL",
   "account-banned": false,
   "auto-retaliate": false,
-  "fight-type": "UNARMED_PUNCH",
+  "fight-type": "UNARMED_KICK",
   "skull-timer": 0,
   "accept-aid": true,
   "poison-damage": 0,
@@ -393,7 +393,7 @@
       "realLevel": 1
     },
     {
-      "level": 10,
+      "level": 7,
       "experience": 1300.0,
       "realLevel": 10
     },

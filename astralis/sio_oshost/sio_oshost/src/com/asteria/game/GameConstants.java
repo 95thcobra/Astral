@@ -108,7 +108,7 @@ public final class GameConstants {
     /**
      * The message that will be sent on every login.
      */
-    public static final String WELCOME_MESSAGE = "Welcome to Smite!";
+    public static final String WELCOME_MESSAGE = "Welcome to Astral!";
 
     /**
      * The items received when a player logs in for the first time.

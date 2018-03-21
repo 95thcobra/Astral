@@ -10,7 +10,7 @@ public final class GameFrame extends Frame {
 
     public GameFrame(GameApplet applet, int width, int height, boolean resizable, boolean fullscreen) {
         this.applet = applet;
-        setTitle(Configuration.CLIENT_NAME + " | www.smite.io");
+        setTitle(Configuration.CLIENT_NAME);
         setResizable(resizable);
         setUndecorated(fullscreen);
         setVisible(true);
