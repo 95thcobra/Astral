@@ -18,7 +18,7 @@ public final class Server {
     /**
      * The name of this server.
      */
-    public static final String NAME = "Smite.io";
+    public static final String NAME = "Astralis";
 
     /**
      * The flag that determines if debugging messages should be printed or not.
