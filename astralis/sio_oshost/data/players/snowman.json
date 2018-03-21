@@ -2,8 +2,8 @@
   "username": "snowman",
   "password": "test123",
   "position": {
-    "x": 3108,
-    "y": 3507,
+    "x": 3130,
+    "y": 3502,
     "z": 0
   },
   "rights": "DEVELOPER",
@@ -22,42 +22,27 @@
     0,
     0
   ],
-  "running": false,
+  "running": true,
   "new-player": false,
   "inventory": [
+    null,
+    null,
     {
       "id": 7456,
       "amount": 1
     },
-    {
-      "id": 21295,
-      "amount": 1
-    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     {
       "id": 21287,
       "amount": 1
     },
-    null,
-    null,
-    {
-      "id": 8842,
-      "amount": 1
-    },
-    {
-      "id": 13072,
-      "amount": 1
-    },
-    {
-      "id": 13073,
-      "amount": 1
-    },
-    {
-      "id": 11664,
-      "amount": 1
-    },
-    null,
-    null,
-    null,
     null,
     null,
     null,
@@ -1078,16 +1063,31 @@
     }
   ],
   "equipment": [
+    {
+      "id": 11664,
+      "amount": 1
+    },
+    {
+      "id": 21295,
+      "amount": 1
+    },
     null,
     null,
+    {
+      "id": 13072,
+      "amount": 1
+    },
     null,
     null,
+    {
+      "id": 13073,
+      "amount": 1
+    },
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": 8842,
+      "amount": 1
+    },
     null,
     null,
     null,
@@ -1097,7 +1097,7 @@
   "ignores": [
     2618069294484330951
   ],
-  "run-energy": 100,
+  "run-energy": 2342342,
   "spellbook": "NORMAL",
   "account-banned": false,
   "auto-retaliate": false,

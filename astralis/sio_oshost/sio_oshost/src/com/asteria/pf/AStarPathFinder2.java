@@ -171,7 +171,7 @@ public class AStarPathFinder2 implements PathFinder2 {
 	@Override
 	public Path findPath(Position location, int radius, TileMap map, int srcX, int srcY, int dstX, int dstY) {
 		if (dstX < 0 || dstY < 0 || dstX >= map.getWidth() || dstY >= map.getHeight()) {
-			//System.out.println("shit");
+			System.out.println("shit");
 			return null; // out of range
 		}
 

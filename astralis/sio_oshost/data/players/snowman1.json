@@ -2,8 +2,8 @@
   "username": "snowman1",
   "password": "test123",
   "position": {
-    "x": 3108,
-    "y": 3509,
+    "x": 3141,
+    "y": 3465,
     "z": 0
   },
   "rights": "PLAYER",
@@ -39,32 +39,29 @@
     },
     {
       "id": 556,
-      "amount": 250
+      "amount": 240
     },
     {
       "id": 558,
-      "amount": 250
+      "amount": 240
     },
     {
       "id": 554,
-      "amount": 100
+      "amount": 94
     },
     {
       "id": 555,
-      "amount": 100
+      "amount": 99
     },
     {
       "id": 557,
-      "amount": 100
+      "amount": 90
     },
     {
       "id": 1323,
       "amount": 1
     },
-    {
-      "id": 2309,
-      "amount": 1
-    },
+    null,
     {
       "id": 2309,
       "amount": 1
@@ -366,7 +363,7 @@
   ],
   "friends": [],
   "ignores": [],
-  "run-energy": 100,
+  "run-energy": 23423423,
   "spellbook": "NORMAL",
   "account-banned": false,
   "auto-retaliate": false,
@@ -393,9 +390,9 @@
       "realLevel": 1
     },
     {
-      "level": 10,
-      "experience": 1300.0,
-      "realLevel": 10
+      "level": 9,
+      "experience": 2575.0,
+      "realLevel": 15
     },
     {
       "level": 1,
@@ -408,9 +405,9 @@
       "realLevel": 1
     },
     {
-      "level": 1,
-      "experience": 0.0,
-      "realLevel": 1
+      "level": 18,
+      "experience": 3825.0,
+      "realLevel": 18
     },
     {
       "level": 1,
