@@ -2,8 +2,8 @@
   "username": "snowman",
   "password": "test123",
   "position": {
-    "x": 3130,
-    "y": 3502,
+    "x": 3108,
+    "y": 3494,
     "z": 0
   },
   "rights": "DEVELOPER",
@@ -1097,7 +1097,7 @@
   "ignores": [
     2618069294484330951
   ],
-  "run-energy": 2342342,
+  "run-energy": 2342249,
   "spellbook": "NORMAL",
   "account-banned": false,
   "auto-retaliate": false,

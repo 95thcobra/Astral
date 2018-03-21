@@ -887,7 +887,7 @@ public final class Combat {
             System.out.println("[System] Returning null for attack distance builder character!");
             return false;
         }
-        if (builder.getStrategy().attackDistance(builder.getCharacter()) < 0 || builder.getStrategy().attackDistance(builder.getCharacter()) > 18){
+        if (builder.getStrategy().attackDistance(builder.getCharacter()) < 0 || builder.getStrategy().attackDistance(builder.getCharacter()) > 10){
             return false;
         }
         int distance = builder.getStrategy().attackDistance(builder.getCharacter());

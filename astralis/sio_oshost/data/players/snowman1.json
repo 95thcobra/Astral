@@ -2,8 +2,8 @@
   "username": "snowman1",
   "password": "test123",
   "position": {
-    "x": 3141,
-    "y": 3465,
+    "x": 3104,
+    "y": 3498,
     "z": 0
   },
   "rights": "PLAYER",
@@ -363,7 +363,7 @@
   ],
   "friends": [],
   "ignores": [],
-  "run-energy": 23423423,
+  "run-energy": 23423312,
   "spellbook": "NORMAL",
   "account-banned": false,
   "auto-retaliate": false,
@@ -390,7 +390,7 @@
       "realLevel": 1
     },
     {
-      "level": 9,
+      "level": 15,
       "experience": 2575.0,
       "realLevel": 15
     },
