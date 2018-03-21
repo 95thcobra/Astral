@@ -143,7 +143,7 @@ public class AStarPathFinder2 implements PathFinder2 {
 			if (depth != other.depth)
 				return false;
 			if (heuristic != other.heuristic)
-				return false;
+				return true;
 			if (parent == null) {
 				if (other.parent != null)
 					return false;
