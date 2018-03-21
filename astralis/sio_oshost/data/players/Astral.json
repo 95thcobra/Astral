@@ -2,8 +2,8 @@
   "username": "Astral",
   "password": "lol",
   "position": {
-    "x": 3222,
-    "y": 3221,
+    "x": 3223,
+    "y": 3219,
     "z": 0
   },
   "rights": "DEVELOPER",
@@ -27,7 +27,7 @@
   "inventory": [
     {
       "id": 995,
-      "amount": 25000
+      "amount": 25000000
     },
     {
       "id": 841,
