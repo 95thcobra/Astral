@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="sio_oshost/src"/>
+	<classpathentry kind="lib" path="sio_oshost/artifacts/Asteria_jar/Asteria.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/asm-analysis-3.2.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/asm-commons-3.2.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/asm-tree-3.2.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/asm-util-3.2.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/groovy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/deps/netty-all-4.0.29.Final.jar"/>
+	<classpathentry kind="lib" path="sio_oshost/Smite.jar"/>
+	<classpathentry kind="output" path="sio_oshost/artifacts/Asteria_jar/bin"/>
+</classpath>

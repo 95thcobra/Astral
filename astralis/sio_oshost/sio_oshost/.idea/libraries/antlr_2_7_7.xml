@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deps/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-analysis-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-commons-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-tree-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-util-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/commons-compress-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/groovy-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/netty-all-4.0.29.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

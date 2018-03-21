@@ -1,0 +1,543 @@
+{
+  "username": "max",
+  "password": "test123",
+  "position": {
+    "x": 3008,
+    "y": 3363,
+    "z": 0
+  },
+  "rights": "DEVELOPER",
+  "appearance": [
+    1,
+    45,
+    -1,
+    56,
+    61,
+    67,
+    70,
+    79,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "running": true,
+  "new-player": false,
+  "inventory": [
+    null,
+    {
+      "id": 10566,
+      "amount": 1
+    },
+    {
+      "id": 10637,
+      "amount": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "bank": [
+    {
+      "id": 12426,
+      "amount": 1
+    },
+    {
+      "id": 12437,
+      "amount": 1
+    },
+    {
+      "id": 12596,
+      "amount": 1
+    },
+    {
+      "id": 10340,
+      "amount": 1
+    },
+    {
+      "id": 10348,
+      "amount": 1
+    },
+    {
+      "id": 10342,
+      "amount": 1
+    },
+    {
+      "id": 10338,
+      "amount": 1
+    },
+    {
+      "id": 10350,
+      "amount": 1
+    },
+    {
+      "id": 10346,
+      "amount": 1
+    },
+    {
+      "id": 11664,
+      "amount": 1
+    },
+    {
+      "id": 12424,
+      "amount": 1
+    },
+    {
+      "id": 12422,
+      "amount": 1
+    },
+    {
+      "id": 11281,
+      "amount": 1
+    },
+    {
+      "id": 11943,
+      "amount": 1
+    },
+    {
+      "id": 12321,
+      "amount": 1
+    },
+    {
+      "id": 12323,
+      "amount": 1
+    },
+    {
+      "id": 12325,
+      "amount": 1
+    },
+    {
+      "id": 12371,
+      "amount": 1
+    },
+    {
+      "id": 13425,
+      "amount": 1
+    },
+    {
+      "id": 13428,
+      "amount": 1
+    },
+    {
+      "id": 2149,
+      "amount": 1
+    },
+    {
+      "id": 2148,
+      "amount": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipment": [
+    {
+      "id": 13338,
+      "amount": 1
+    },
+    {
+      "id": 6570,
+      "amount": 1
+    },
+    {
+      "id": 10344,
+      "amount": 1
+    },
+    {
+      "id": 667,
+      "amount": 1
+    },
+    {
+      "id": 10330,
+      "amount": 1
+    },
+    {
+      "id": 10352,
+      "amount": 1
+    },
+    null,
+    {
+      "id": 10332,
+      "amount": 1
+    },
+    null,
+    {
+      "id": 10336,
+      "amount": 1
+    },
+    {
+      "id": 2577,
+      "amount": 1
+    },
+    null,
+    null,
+    null
+  ],
+  "friends": [],
+  "ignores": [],
+  "run-energy": 85,
+  "spellbook": "NORMAL",
+  "account-banned": false,
+  "auto-retaliate": false,
+  "fight-type": "SWORD_STAB",
+  "skull-timer": 0,
+  "accept-aid": true,
+  "poison-damage": 0,
+  "teleblock-timer": 0,
+  "special-amount": 100,
+  "skills": [
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 10,
+      "experience": 1300.0,
+      "realLevel": 10
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    },
+    {
+      "level": 1,
+      "experience": 0.0,
+      "realLevel": 1
+    }
+  ]
+}

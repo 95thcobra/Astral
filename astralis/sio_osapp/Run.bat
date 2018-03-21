@@ -1,0 +1,1 @@
+java -jar osrs_smite.jar

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asteria.iml" filepath="$PROJECT_DIR$/Asteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sio_oshost.iml" filepath="$PROJECT_DIR$/sio_oshost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sio_oshost.iml" filepath="$PROJECT_DIR$/sio_oshost.iml" />
+    </modules>
+  </component>
+</project>

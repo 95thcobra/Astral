@@ -1,0 +1,12 @@
+[
+  {
+    "id": 9,
+    "position": {
+      "x": 2964,
+      "y": 3387,
+      "z": 0
+    },
+    "random-walk": true,
+    "walk-radius": 1
+  }
+]

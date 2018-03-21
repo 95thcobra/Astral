@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Smite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Smite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

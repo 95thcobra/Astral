@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="org.codehaus.groovy:groovy:1.8.3" type="repository">
+    <properties maven-id="org.codehaus.groovy:groovy:1.8.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deps/groovy-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-commons-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-util-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-analysis-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/asm-tree-3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
